@@ -427,6 +427,7 @@ if (( TEST )); then
         Sources/Vorssaint/Services/DockPreview/DockPreviewSupport.swift
         Sources/Vorssaint/Services/DockPreview/DockAutohideHold.swift
         Sources/Vorssaint/Services/SpacesOrder/SpacesOrderHold.swift
+        Sources/Vorssaint/Services/AlwaysOnTop/AlwaysOnTopSupport.swift
         Sources/Vorssaint/Services/Homebrew/HomebrewSupport.swift
         Sources/Vorssaint/Services/Homebrew/HomebrewEnvironment.swift
         Sources/Vorssaint/Services/AppUpdates/AppUpdatesSupport.swift
@@ -476,6 +477,7 @@ if (( TEST )); then
         Sources/Vorssaint/Core/MouseExceptionStrings.swift
         Sources/Vorssaint/Core/ClipboardIgnoredAppsStrings.swift
         Sources/Vorssaint/Core/WindowLayoutIgnoredAppsStrings.swift
+        Sources/Vorssaint/Core/AlwaysOnTopStrings.swift
         Sources/Vorssaint/Services/WindowLayout/WindowLayoutIgnoredApps.swift
         Sources/Vorssaint/Core/WindowPreviewExclusionStrings.swift
         Sources/Vorssaint/Core/WindowMaximizerExclusionStrings.swift
